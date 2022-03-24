@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <header>
-    <title>WEBPAGE</title>
+    <title>CLE1MT</title>
     <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
     </header>
     <body>
